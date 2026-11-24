@@ -6,13 +6,14 @@
   --font-text: Georgia, serif;
   --font-titles: Arial, sans-serif;
   --text-size: 18px;
-  --line-height: 1.4;
+  --line-height-titles: 1.4;
+  --line-height-text: 1.6;
   --color-text: #222;
   --color-links: orangered;
   --color-lines: #ccc;
   --space: 1em;
   --space-small: 0.5em;
-  --web-width: 40em;
+  --web-width: 70ch;
 }
 
 body {
@@ -24,6 +25,8 @@ body {
 
 h1, h2, h3 {
   font-family: var(--font-titles);
+  line-height: var(--line-height-titles);
+  font-weight: normal;
 }
 
 a {
