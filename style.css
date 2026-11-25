@@ -3,8 +3,8 @@
    Start by changing the values just below. */
 
 :root {
-  --font-text: Georgia, serif;
-  --font-titles: Arial, sans-serif;
+  --font-text: IBMPlexSans-Light , Time New Roman, Georgia, sans-serif;
+  --font-titles: OTPergamon-Regular,Arial, serif;
   --text-size: 18px;
   --line-height-titles: 1.4;
   --line-height-text: 1.6;

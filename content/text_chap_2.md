@@ -8,6 +8,8 @@ Until first Unicode Armenian fonts were created in 2010, Armenian-speakers, howe
 
 Pure numbers explain the reason for the delay in developing mobile-friendly Armenian fonts. Armenia contains roughly about half of the world’s several million Armenian speakers, but fonts are not regularly purchased there -- smaller publishers and media often prefer free fonts or, in some instances, just turn a blind eye to copyrights, commented Arqmenik Nikoghosyan, editor-in-chief of Antares publishers.
 
+![A congratulatory Easter SMS from the Armenian Apostolic Church, a text message about a museum event from the Armenian Ministry of Culture and a notice about new prices from telecom company VivaCell MTC all use both Latin and Armenian fonts.](content/Asset/21551.jpg)
+
 “Educated” readers of both books and electronic texts could change that, he says. Font options in the past few years have, in fact, diversified, he adds. Today, roughly 500 Armenian fonts are actively used, Ghabuzyan estimates.
 
 In the past, demand for Armenian fonts was relatively limited. “In Soviet times, there was only one body which was responsible for font design,” Ghabuzyan recollects, in reference to the All-Union Research Institute of Polygraphy Engineering. “They designed them for all of the alphabets in the Soviet Union, most of which were based on Cyrillic letters. Only the Armenians and Georgians had their own alphabets and the state didn’t pay much attention to creating many different fonts for us.”

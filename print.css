@@ -20,6 +20,7 @@
 /* 2. TEXT SIZE ON PAPER ────────────────────────────────── */
 
 :root {
+
   --text-size: 10pt;   /* replaces the value from style.css */
 }
 
@@ -111,3 +112,11 @@ table, img, .item {
 /* Footnotes: write <span class="note">…</span> in your text
 .note { float: footnote; }
 */
+
+
+/* example de changement de couleur sur la page 4 (le fond)
+@page :nth(4){
+  .pageddjs_area {
+    background-color: red;
+  }
+} */
